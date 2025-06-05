@@ -2,7 +2,12 @@
 
 ## algorithm 1
 
+### algorithm 1 model based DCN
+### architecture of algorithm 1
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/42aa1cb1-c5d4-46d4-ac50-efe52e2e703f" />
+
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/e05b0d10-7785-4ae1-b62b-899456530a36" />
+
 ### refered by 
-Elsheikh， Reham A.， M. A. Mohamed， Ahmed Mohamed Abou-Taleb， and      Mohamed Maher Ata. "Improved facial emotion recognition model based on a      novel deep convolutional structure." Scientific Reports 14， no. 1 (2024): 29050.
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/431446ff-1934-489c-b162-d152770768de" />
 
